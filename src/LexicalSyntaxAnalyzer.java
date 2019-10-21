@@ -21,7 +21,7 @@ public class LexicalSyntaxAnalyzer {
     
      public boolean int_literal(){
         /*
-            calls for digit repeatedly if needed
+            calls for digit repeatedly if neededs
          */
         return false;
     }
